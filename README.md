@@ -11,7 +11,7 @@ It has been accepted at ICML 2020:
 <br/>
 
 
-![](img/arch.png)
+![](img/arc.png)
 
 
 ## Reference
