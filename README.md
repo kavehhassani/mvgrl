@@ -17,11 +17,11 @@ It has been accepted at ICML 2020:
 ## Reference
 
 ```
-@inproceedings{
-hassani2020contrastive,
-title={Contrastive Multi-View Representation Learning on Graphs},
-author={Kaveh Hassani and Amir Hosein Khasahmadi},
-booktitle={International Conference on Machine Learning},
-year={2020}
+@incollection{icml2020_1971,
+ author = {Hassani, Kaveh and Khasahmadi, Amir Hosein},
+ booktitle = {Proceedings of Machine Learning and Systems 2020},
+ pages = {3451--3461},
+ title = {Contrastive Multi-View Representation Learning on Graphs},
+ year = {2020}
 }
 ```
