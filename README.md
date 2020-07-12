@@ -19,7 +19,7 @@ It has been accepted at ICML 2020:
 ```
 @incollection{icml2020_1971,
  author = {Hassani, Kaveh and Khasahmadi, Amir Hosein},
- booktitle = {Proceedings of Machine Learning and Systems 2020},
+ booktitle = {Proceedings of International Conference on Machine Learning},
  pages = {3451--3461},
  title = {Contrastive Multi-View Representation Learning on Graphs},
  year = {2020}
