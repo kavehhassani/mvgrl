@@ -16,5 +16,5 @@ torch-scatter==1.4.0
 torch-sparse==0.4.3
 torchtext==0.4.0
 torchvision==0.4.2
-urllib3==1.25.6
+urllib3==1.25.8
 zipp==0.6.0
